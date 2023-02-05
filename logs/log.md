@@ -11,6 +11,8 @@ data_agro_05-02-2023
 * GitHub
   * Criação de repositório GitHub
   * Inclusão de todos os arquivos utilizados no Colab 
+* Visualização de dados
+  * Criação de pequena documentação para ajudar na utilização da função de filtro das tabelas  
 
 ## Limpeza de dados
 
