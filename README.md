@@ -68,5 +68,12 @@ Para visualizarmos todas as projeções, devemos passar por algumas etapas antes
 
 3. [Historical Forecast](https://github.com/npcateam2/data_agro/tree/main/Dados/standarized#:~:text=20%20minutes%20ago-,historical_forecast,-Adi%C3%A7%C3%A3o%20de%20dados)
 
-  Forecasting histórico que foi utilizado para validar o resultado dos forecasting e determinar melhor conjunto de parâ
-   Script onde é realizado uma avalização nos dados do script de predição, onde ao final dele é gerado uma tabela de erro.todmetros
+  Forecasting histórico que foi utilizado para validar o resultado dos forecasting e determinar melhor conjunto de parâmetros
+  
+4. [Parâmetros](https://github.com/npcateam2/data_agro/tree/main/Dados/standarized/parametros)
+  
+  Melhor conjunto de parâmetros encontrados pelo GridSearch
+  
+5. [Pontuação para validação de modelos](https://github.com/npcateam2/data_agro/tree/main/Dados/standarized/score)
+  
+6. [Séries temporais utilizadas para treinamento dos modelos](https://github.com/npcateam2/data_agro/tree/main/Dados/standarized/time_series)
