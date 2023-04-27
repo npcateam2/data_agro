@@ -1,0 +1,35 @@
+2023-02-23 01:00:01,268 INFO NumExpr defaulting to 2 threads.
+2023-02-23 01:00:15,595 INFO Arquivo será baixado: tabela 1612 da base de dados do IBGE
+2023-02-23 01:00:15,599 INFO Arquivo será baixado: tabela 291 da base de dados do IBGE
+2023-02-23 01:00:15,603 INFO Arquivo será baixado: tabela 3939 da base de dados do IBGE
+2023-02-23 01:00:15,607 INFO Arquivo será baixado: tabela 1613 da base de dados do IBGE
+2023-02-23 01:00:15,608 INFO tentando: 2688
+2023-02-23 01:04:55,037 INFO concluido: 2688
+2023-02-23 01:04:55,038 INFO tentando: 2691
+2023-02-23 01:09:29,327 INFO concluido: 2691
+2023-02-23 01:09:29,328 INFO tentando: 2692
+2023-02-23 01:14:22,110 INFO concluido: 2692
+2023-02-23 01:14:22,110 INFO tentando: 2694
+2023-02-23 01:18:50,111 INFO concluido: 2694
+2023-02-23 01:18:50,111 INFO tentando: 2696
+2023-02-23 01:23:26,885 INFO concluido: 2696
+2023-02-23 01:23:26,886 INFO tentando: 2697
+2023-02-23 01:28:13,471 INFO concluido: 2697
+2023-02-23 01:28:13,472 INFO tentando: 2702
+2023-02-23 01:29:05,034 INFO concluido: 2702
+2023-02-23 01:29:05,035 INFO tentando: 2703
+2023-02-23 01:33:18,122 INFO concluido: 2703
+2023-02-23 01:33:18,124 INFO tentando: 2706
+2023-02-23 01:35:00,509 INFO concluido: 2706
+2023-02-23 01:35:00,511 INFO tentando: 2706
+2023-02-23 01:39:04,191 INFO concluido: 2706
+2023-02-23 01:39:04,193 INFO tentando: 2709
+2023-02-23 01:42:56,439 INFO concluido: 2709
+2023-02-23 01:42:56,439 INFO tentando: 2711
+2023-02-23 01:47:17,016 INFO concluido: 2711
+2023-02-23 01:47:17,017 INFO tentando: 2713
+2023-02-23 01:48:52,585 ERROR falha: https://apisidra.ibge.gov.br/values/t/1612/n6/in%20n3%2015/p/all/v/214,109,216/c81/2713/h/n
+2023-02-23 01:48:52,587 INFO tentando: 2714
+2023-02-23 01:53:37,751 INFO concluido: 2714
+2023-02-23 01:53:37,752 INFO tentando: 2715
+2023-02-23 01:56:13,951 ERROR falha: https://apisidra.ibge.gov.br/values/t/1612/n6/in%20n3%2015/p/all/v/214,109,216/c81/2715/h/n
