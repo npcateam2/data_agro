@@ -40,23 +40,14 @@ Se desejar, basta criar um fork do repositório seguindo normalmente os passos p
 Para visualizarmos todas as projeções, devemos passar por algumas etapas antes.
 
 1. [Coleta de dados](https://github.com/npcateam2/data_agro/tree/main/Colab%20Notebooks/ETL#:~:text=Coleta_map_biomas.ipynb)
+    
+    Dados são coletados e tratados em um único arquivo. Todos os dados serão baixados e salvos em formato Parquet.
 
-   Onde é coletado os dados para realização das transformações necessárias
-   <br>
-
-2. [União das tabelas da SIDRA](https://github.com/npcateam2/data_agro/tree/main/Colab%20Notebooks/ETL#:~:text=unification%2Dof%2DSIDRA%2Dtables.ipynb)
-
-   Onde é unificado os dados da SIDRA que foram extraídos individualmente
-   
-3. [União de tabelas](https://github.com/npcateam2/data_agro/tree/main/Colab%20Notebooks/ETL#:~:text=uniao_de_%20tabelas.ipynb)
-
-   Onde dos dados da SIDRA e MAPBIOMAS são unidos em uma unica tabela
-
-4. [Modelagem](https://github.com/npcateam2/data_agro/blob/main/Colab%20Notebooks/modelos/modelagem.ipynb)
+2. [Modelagem](https://github.com/npcateam2/data_agro/blob/main/Colab%20Notebooks/modelos/modelagem.ipynb)
 
    Dados são modelados de acordo com a modelagem hierarquica proposta no projeto.
 
-5. [GRID SEARCH](https://github.com/npcateam2/data_agro/tree/main/Colab%20Notebooks/modelos#:~:text=.%E2%80%8A.-,grid_search.ipynb,-Add%20files%20via)
+3. [GRID SEARCH](https://github.com/npcateam2/data_agro/tree/main/Colab%20Notebooks/modelos#:~:text=.%E2%80%8A.-,grid_search.ipynb,-Add%20files%20via)
 
    Script que irá realizar o processo de treinamento, criar e salvar métricas de erro e forecasting e gerar os gráficos que foram adicionados ao projeto.
    
