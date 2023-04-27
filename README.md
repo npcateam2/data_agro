@@ -39,15 +39,15 @@ Se desejar, basta criar um fork do repositório seguindo normalmente os passos p
 <p align="justify">
 Para visualizarmos todas as projeções, devemos passar por algumas etapas antes.
 
-1. [Coleta de dados](https://github.com/npcateam2/data_agro/tree/main/Colab%20Notebooks/ETL#:~:text=Coleta_map_biomas.ipynb)
+1. [Coleta de dados](https://github.com/npcateam2/data_agro/blob/674f8870ca4f8958f660ada9e4c7f6459cfdd4fe/Colab%20Notebooks/ETL/PIPELINE_FULL.ipynb)
     
     Dados são coletados e tratados em um único arquivo. Todos os dados serão baixados e salvos em formato Parquet.
 
-2. [Modelagem](https://github.com/npcateam2/data_agro/blob/main/Colab%20Notebooks/modelos/modelagem.ipynb)
+2. [Modelagem](https://github.com/npcateam2/data_agro/blob/674f8870ca4f8958f660ada9e4c7f6459cfdd4fe/Colab%20Notebooks/modelos/modelagem.ipynb)
 
    Dados são modelados de acordo com a modelagem hierarquica proposta no projeto.
 
-3. [GRID SEARCH](https://github.com/npcateam2/data_agro/tree/main/Colab%20Notebooks/modelos#:~:text=.%E2%80%8A.-,grid_search.ipynb,-Add%20files%20via)
+3. [GRID SEARCH](https://github.com/npcateam2/data_agro/blob/674f8870ca4f8958f660ada9e4c7f6459cfdd4fe/Colab%20Notebooks/modelos/grid_search.ipynb)
 
    Script que irá realizar o processo de treinamento, criar e salvar métricas de erro e forecasting e gerar os gráficos que foram adicionados ao projeto.
    
@@ -57,7 +57,7 @@ Para visualizarmos todas as projeções, devemos passar por algumas etapas antes
 
 2. [Forecast gerado pelos modelos](https://github.com/npcateam2/data_agro/tree/main/Dados/standarized/forecast_ts)
 
-3. [Historical Forecast](https://github.com/npcateam2/data_agro/tree/main/Dados/standarized#:~:text=20%20minutes%20ago-,historical_forecast,-Adi%C3%A7%C3%A3o%20de%20dados)
+3. [Historical Forecast](https://github.com/npcateam2/data_agro/tree/main/Dados/standarized/historical_forecast)
 
   Forecasting histórico que foi utilizado para validar o resultado dos forecasting e determinar melhor conjunto de parâmetros
   
